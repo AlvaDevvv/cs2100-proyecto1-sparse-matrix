@@ -6,4 +6,3 @@ Lista de métodos públicos con una frase de descripción.
 
 Instrucciones para compilar desde cero (cmake -B build && cmake --build build).
 
-Estado actual.
