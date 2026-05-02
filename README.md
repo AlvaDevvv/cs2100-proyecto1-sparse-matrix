@@ -75,7 +75,7 @@ struct Node {
 };
 ```
 
-Por ejemplo, en una hoja de 1000×1000 con solo 1% de celdas ocupadas (10,000 celdas), un arreglo normal usaría ~8 MB. La lista cruzada usa proporcional a esas 10,000 celdas, unas 100 veces menos.
+Por ejemplo, en una hoja de 1000×1000 con solo 1% de celdas ocupadas (10,000 celdas), un arreglo normal usaría ~8 MB. La lista cruzada usa proporcional a esas 10,000 celdas, unas 100 veces menos. s
 
 ---
 
