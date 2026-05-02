@@ -1,0 +1,4 @@
+/run/media/r3d/PEPITO/2026-1/AED/proyecto/sparse-spreadsheet/build/CMakeFiles/sparsematrix.dir
+/run/media/r3d/PEPITO/2026-1/AED/proyecto/sparse-spreadsheet/build/CMakeFiles/test_app.dir
+/run/media/r3d/PEPITO/2026-1/AED/proyecto/sparse-spreadsheet/build/CMakeFiles/edit_cache.dir
+/run/media/r3d/PEPITO/2026-1/AED/proyecto/sparse-spreadsheet/build/CMakeFiles/rebuild_cache.dir

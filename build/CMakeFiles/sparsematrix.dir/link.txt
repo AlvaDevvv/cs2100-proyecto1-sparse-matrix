@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsparsematrix.a CMakeFiles/sparsematrix.dir/src/SparseMatrix.cpp.o
+/usr/bin/ranlib libsparsematrix.a
