@@ -1,7 +1,10 @@
 #pragma once
 #include <string>
+
+
+
 class CellProvider {
 public:
-  virtual std::string getCellValue(int fila, int columna) = 0;
-  virtual ~CellProvider() = default;
+    virtual ~CellProvider() = default;
+    virtual std::string getCellValue(int fila, int col) = 0;
 };
