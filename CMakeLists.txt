@@ -1,7 +1,12 @@
 cmake_minimum_required(VERSION 3.16)
 project(SparseSpreadsheet LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
-add_library(sparsematrix STATIC src/SparseMatrix.cpp include/SparseMatrix.h)
+add_library(sparsematrix STATIC
+    src/SparseMatrix.cpp
+    src/FormulaEvaluator.cpp
+    include/SparseMatrix.h
+    include/FormulaEvaluator.h
+)
 target_include_directories(sparsematrix PUBLIC include)
 add_executable(test_app src/main.cpp)
 target_link_libraries(test_app sparsematrix)

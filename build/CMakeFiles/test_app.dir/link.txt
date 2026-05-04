@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_app.dir/link.d CMakeFiles/test_app.dir/src/main.cpp.o -o test_app  libsparsematrix.a
