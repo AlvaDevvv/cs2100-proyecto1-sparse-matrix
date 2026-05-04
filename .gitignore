@@ -1,0 +1,37 @@
+# Directorios de build
+build/
+cmake-build-*/
+
+# Archivos generados por CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# Archivos generados por Qt (MOC, UIC, RCC)
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+*.qm
+
+# Binarios
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+test_app
+spreadsheet_gui
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
